@@ -11,6 +11,6 @@ The socioeconomic data was gleaned from both SIMD and the 2011 Census. The final
 
 Also uploaded into the repository is the map of the r-squared values for each datazone in Glasgow produced by the GWR analysis. This shows where SES has a high model fit with noise levels from traffic. 
 
-![Local R-Squared Values for Glasgow](https://github.com/issyollie/Glasgow_GWR_Noise_Analysis/blob/main/images/Local r2.png?raw=true)
+![Local R-Squared Values for Glasgow](https://github.com/issyollie/Glasgow_GWR_Noise_Analysis/blob/main/images/Local_r2.png?raw=true)
 
 
